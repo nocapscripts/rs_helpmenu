@@ -18,5 +18,5 @@ files {
 	
 }
 
-shared_script '@rs_base/import.lua'
+
 
